@@ -34,3 +34,7 @@ GitHub Dorking for Secrets / Tokens
 Make sure these tools are in $GOPATH/bin:
 
 subfinder, httpx, naabu, gau, waybackurls, nuclei, dalfox, gf, SecretFinder
+
+# Usage 
+
+bash recon.sh -u target.com
