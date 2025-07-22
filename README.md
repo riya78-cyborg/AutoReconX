@@ -10,21 +10,13 @@ Subfinder
    ↓
 Live Host Discovery (httpx)
    ↓
-Extract IPs for Port Scan (naabu)
+Extract IPs for Port Scan (shodan) [I have premium one so i get mnore ip]
    ↓
 Vulnerability Scanning on Live Targets (Nuclei)
    ↓
 Archived URL Collection (waybackurls + gau)
    ↓
 DAST Vulnerability Scan on Archived URLs (Nuclei - DAST templates)
-   ↓
-JavaScript Endpoint Extraction (from gau)
-   ↓
-JS Secrets Discovery (SecretFinder)
-   ↓
-XSS Detection (Dalfox on parameterized URLs)
-   ↓
-Sensitive Parameter Discovery (gf patterns)
    ↓
 Google Dorking for Info Leak
    ↓
