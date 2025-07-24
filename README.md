@@ -10,6 +10,8 @@ Subfinder
    ↓
 Live Host Discovery (httpx)
    ↓
+Vulnerability Scanning on Live Targets (Nuclei)
+
 Extract IPs for Port Scan (shodan) [I have premium one so i get mnore ip]
    ↓
 Vulnerability Scanning on Live Targets (Nuclei)
@@ -25,7 +27,7 @@ GitHub Dorking for Secrets / Tokens
 # 🛠️ Requirements
 Make sure these tools are in $GOPATH/bin:
 
-subfinder, httpx, naabu, gau, waybackurls, nuclei, dalfox, gf, SecretFinder
+subfinder, httpx, shodan, nuclei, waybackurls, google dork, github dork
 
 # Usage 
 
